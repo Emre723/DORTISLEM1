@@ -1,0 +1,2 @@
+# DORTISLEM1
+ÖDEV
